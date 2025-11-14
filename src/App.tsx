@@ -63,7 +63,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>My To-Do List</h1>
+      <h1>Basta Listahan</h1>
 
       {/* Add new */}
       <div className="add-section">
